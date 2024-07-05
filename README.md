@@ -4,7 +4,4 @@ Jakiś opis zmodyfikowany
 
 # Inny nagłówek
 
-... i jakiś tekst
-
-
-sdfsdfsf
+w drugiej gałęzi
