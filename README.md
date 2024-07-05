@@ -11,4 +11,4 @@ Jakiś opis zmodyfikowany
 ## TO JEST WŁAŚCIWA MODYFIKACJIA
 
 
-A tu coś z mastera
+Wszystko wykasowałem
