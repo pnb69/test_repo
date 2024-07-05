@@ -8,3 +8,4 @@ Jakiś opis zmodyfikowany
 ... i jakiś tekst
 
 
+## TO JEST WŁAŚCIWA MODYFIKACJIA
