@@ -8,10 +8,3 @@ Jakiś opis zmodyfikowany
 ... i jakiś tekst
 
 
-sdfsdfsf
-
-Pod innym imieniem
-==================
-w drugiej gałęzi
-
-Wysyłam jeszcze raz
