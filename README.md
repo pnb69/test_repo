@@ -9,3 +9,6 @@ Jakiś opis zmodyfikowany
 
 
 ## TO JEST WŁAŚCIWA MODYFIKACJIA
+
+
+Tu coś dodałem z gałęzi "druga"
