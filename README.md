@@ -7,4 +7,4 @@ Jakiś opis zmodyfikowany
 DDDDDD
 ... i jakiś tekst
 
-sd
+## TO JEST WŁAŚCIWA MODYFIKACJIA
