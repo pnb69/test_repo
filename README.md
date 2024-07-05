@@ -6,3 +6,4 @@ Jakiś opis zmodyfikowany
 
 ... i jakiś tekst
 
+Cześć z masera
